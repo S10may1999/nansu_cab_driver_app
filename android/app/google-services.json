@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "244190624368",
+    "firebase_url": "https://cabbooking-e2013-default-rtdb.firebaseio.com",
+    "project_id": "cabbooking-e2013",
+    "storage_bucket": "cabbooking-e2013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244190624368:android:6510b05966e5aee5af92b5",
+        "android_client_info": {
+          "package_name": "com.example.nansu_cab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwA_WrYl5QXoRqaFC6EfMFeIcfFCR0Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244190624368:android:8c3e291953833935af92b5",
+        "android_client_info": {
+          "package_name": "com.example.nansu_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwA_WrYl5QXoRqaFC6EfMFeIcfFCR0Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
